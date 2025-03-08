@@ -10,4 +10,10 @@ console.log(footer);
 =======
 const  Payment = "Integrated the payment getway";
 console.log(Payment);
+<<<<<<< HEAD
 >>>>>>> 65717bc (Payment added)
+=======
+
+const upi = "Intergrated upi";
+console.log(upi);
+>>>>>>> 84de2e3 (Upi added)
