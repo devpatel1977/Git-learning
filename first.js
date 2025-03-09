@@ -10,3 +10,8 @@ const  Payment = "Integrated the payment getway";
 console.log(Payment);
 
 console.log("latest update")
+
+// i am fixing sum bug
+console.log("Bug fixed");
+
+console.log("dev2");
